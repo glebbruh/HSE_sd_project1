@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9UWcGChXZI=",
+  "success": true,
+  "projectFilePath": "/Users/gleb/RiderProjects/HSE_sd_project1/HSE_sd_project1/HSE_sd_project1.csproj",
+  "expectedPackageFiles": [
+    "/Users/gleb/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "/Users/gleb/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-rc.2.25502.107/microsoft.extensions.dependencyinjection.abstractions.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}
